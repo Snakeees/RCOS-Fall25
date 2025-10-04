@@ -1,6 +1,6 @@
 - **Name:** Siddhartha Palreddy
 - **Photo:**  
-  <img src="./image.jpg" alt="Siddhartha Palreddy" width="180">
+  <img src="./image.png" alt="Siddhartha Palreddy" width="180">
 
 - **Graduating Year:** 2028
 
